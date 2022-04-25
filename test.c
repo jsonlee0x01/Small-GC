@@ -1,3 +1,20 @@
+/*
+Execution logs:
+
+Heap size = 239
+Heap size = 600002
+Heap size = 600002
+Heap size = 600002
+Heap size = 600002
+Heap size = 600002
+Heap size = 600002
+Heap size = 600002
+Heap size = 600002
+Heap size = 600002
+Heap size = 2
+Heap size = 2
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
